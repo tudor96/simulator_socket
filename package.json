@@ -1,0 +1,17 @@
+{
+  "name": "ProiectSincretic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "gen-run": "^0.1.2",
+    "nodemon": "^1.18.10"
+  }
+}
